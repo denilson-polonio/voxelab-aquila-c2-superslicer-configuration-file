@@ -1,4 +1,4 @@
-**_Configuration based on Ender-3 v2_**
+#### **_Configuration based on Ender-3 v2_**
 **File:** [Download](https://raw.githubusercontent.com/denilson-polonio/voxelab-aquila-c2-superslicer-configuration-files/main/SuperSlicer_config_bundle.ini)
 
 ## Basic settings

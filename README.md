@@ -5,6 +5,7 @@
 ## Basic settings
 - **Temperature of the print bed:** 60°C
 - **Height of the first layer:** 0.2mm
+- **Base layer height:** 0.15mm
 - **Maximum print height:** 200mm
 - **Nozzle diameter:** 0.4mm
 - **Max printing speed:** 70mm/s

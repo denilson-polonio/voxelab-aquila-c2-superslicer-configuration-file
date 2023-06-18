@@ -1,5 +1,5 @@
 **_Configuration based on Ender-3 v2_**
-**File:** [Download]()
+**File:** [Download](https://raw.githubusercontent.com/denilson-polonio/voxelab-aquila-c2-superslicer-configuration-files/main/SuperSlicer_config_bundle.ini)
 
 ## Basic settings
 - **Temperature of the print bed:** 60°C

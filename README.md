@@ -3,7 +3,8 @@
 **File:** [Download](https://github.com/denilson-polonio/voxelab-aquila-c2-superslicer-configuration-file/blob/main/SuperSlicer_config_bundle.ini)
 
 ## Basic settings
-- **Temperature of the print bed:** 60°C
+- **Extruder temperature:** 210°C
+- **Bed temperature:** 60°C
 - **Height of the first layer:** 0.2mm
 - **Base layer height:** 0.15mm
 - **Maximum print height:** 200mm

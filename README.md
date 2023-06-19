@@ -1,5 +1,6 @@
 #### **_Configuration based on Ender-3 v2_**
 #### **SuperSlicer Version:** *_2.5.59.2_*
+##### ***PLA-PETG / TPU configurations***
 **File:** [Download](https://github.com/denilson-polonio/voxelab-aquila-c2-superslicer-configuration-file/blob/main/SuperSlicer_config_bundle.ini)
 
 ## Basic settings

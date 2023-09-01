@@ -14,7 +14,7 @@
 - **Displacement speed:** 130mm/s
 
 ## Fill and layers
-- **Fill pattern:** gyroid
+- **Fill pattern:** straight
 - **Density of filling:** 5%
 - **Top solid layers:** 5
 - **Bottom solid layers:** 5
